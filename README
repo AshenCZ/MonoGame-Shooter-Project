@@ -1,0 +1,12 @@
+﻿Hello,
+this is a simple game done in Monogame, C#. I supply only source code,
+hence the game is not buildable.
+
+I did it for Faculty of Mathematics and Physics on Charles University
+in Prague, Czech Republic as a programming project in the second
+semester, using Windows, Visual Studio 2013 and Monogame. 
+
+The source code can be found in the /source folder. It is thohroughly
+commented and hopefully written in an easy-to-read way. 
+
+Done in Jul 2015, only by me (Stepan Hojdar).
